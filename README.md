@@ -13,6 +13,9 @@ Yapmış olduğum 2. oyun olan Ghost RecLast Playstore ve İtch.io ya eklendi. U
 - Links
 
 
+Youtube; https://www.youtube.com/watch?v=R15MQj-RHUo
+
+
 itch.io ; https://reclast.itch.io/ghost-reclast
 
 
