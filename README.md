@@ -1,6 +1,6 @@
 # GhostRecLast
 FlappyBird Clone Game - Ghost RecLast
-
+\n
 - English -
 Ghost RecLast, the second game I have made, has been added to Playstore and Itch.io. This is my test project with Unity. FlappyBird is clone version. It is a purely experimental project and it was released in 1 day. I dealt with corrections and adjustments in 1 day so that it looks better. As a result, the game is over in 2 days. Let me give the link to those who want to try. I would be glad if you do not forget your comments and points. Have a Good Time ^^
 
