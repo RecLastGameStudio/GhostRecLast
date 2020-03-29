@@ -19,7 +19,7 @@ Youtube; https://www.youtube.com/watch?v=R15MQj-RHUo
 itch.io ; https://reclast.itch.io/ghost-reclast
 
 
-Playstore ; https://play.google.com/store/apps/details…
+Playstore ; https://play.google.com/store/apps/details?id=com.RecLastGameStudio.GhostRecLast
 
 #reclast #reclastgamestudio #reclasttv #indie #bağımsız #oyun #waytoreclast
 
